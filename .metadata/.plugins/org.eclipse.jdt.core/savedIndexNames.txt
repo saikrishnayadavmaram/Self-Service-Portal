@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\inmyada\GitHub\SSP\.metadata\.plugins\org.eclipse.jdt.core
+4069725745.index
+76533033.index
+1164164160.index
